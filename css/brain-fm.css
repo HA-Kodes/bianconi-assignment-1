@@ -14,10 +14,6 @@ header {
     align-items: center;
 }
 
-.sub-heading {
-    font-size: 16px;
-}
-
 header .logo img {
     height: 50px;
     margin-left: 20px;
@@ -73,15 +69,16 @@ nav button:hover {
     margin-top: 0%;
 }
 
-.functional-focus p1 {
-    font-family: Calibri;
-    font-size: 30px;
-}
 .functional-focus p {
-    font-family: sans-serif
+    font-family: sans-serif;
     font-size: 20px;
     color: #aaa9a9;
     margin-bottom: 30px;
+}
+
+.functional-focus p1 {
+    font-family: Calibri;
+    font-size: 30px;
 }
 
 .functional-focus span {
